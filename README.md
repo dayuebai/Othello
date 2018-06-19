@@ -7,6 +7,7 @@ in Python's standard library.
 
 ## Run
 Clone the repository to local environment and install Python3 package.
+```git clone https://github.com/dayuebai/Othello.git```
 
 Run the command in command line: ```python3 othello_gui_main_window.py```
 
